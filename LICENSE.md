@@ -1,4 +1,4 @@
-
+Get the ultimate Cyberduck for macOS module with custom Cyberduck for macOS Module | speed-limiter + batch-transfers. Featuring speed-limiter and batch-transfers, it's the best
 
 
 
